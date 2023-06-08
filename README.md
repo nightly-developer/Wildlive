@@ -10,7 +10,7 @@ In today's digital era, the lack of easily accessible and reliable dental inform
  
 ## Project Description:
 
-Real estate is considered real property that includes land and anything permanently attached to it or built on it, whether natural or man-made. There are five main categories of real estate which include residential, commercial, industrial, raw land, and special use. Investing in real estate includes purchasing a home, rental property, or land. Indirect investment in real estate can be made via REITs or through pooled real estate investment.
+The Happy Teeth Website project aims to create a user-friendly and informative online platform that empowers individuals in their dental journey. The website will provide a comprehensive dental information hub, offering reliable resources and educational content on oral health topics. It will feature a directory of reputable dental professionals, enabling users to easily find and connect with dentists in their area. With its focus on empowering users through reliable information and seamless access to quality dental care, the project aims to enhance the overall dental care experience and promote optimal oral health.
 
 ## Azure Technologies used :
 
