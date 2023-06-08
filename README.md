@@ -6,7 +6,7 @@ Azure link: [Wildlive Website](https://wildlive.z10.web.core.windows.net/)
 
 ## Project Statement:
 
-The problem statement revolves around the urgent need for wildlife conservation and the preservation of biodiversity. Declining populations, habitat destruction, and the endangerment of species highlight the critical challenges faced by wildlife. The lack of awareness, education, and actionable steps for individuals to contribute further exacerbates the problem. It is crucial to address these issues by raising awareness, inspiring stewardship, and providing accessible avenues for people to actively participate in conservation efforts. By doing so, we can work towards protecting wildlife, restoring ecosystems, and ensuring a sustainable future for both humans and the natural world.
+In today's digital era, the lack of easily accessible and reliable dental information and services online presents a significant challenge for individuals seeking proper oral care. This problem creates a unique opportunity to develop a dental website that addresses these issues proactively. By creating an intuitive and informative platform, users can access comprehensive dental resources. Through the use of technology, this project aims to empower individuals to take control of their dental health by providing accessible and trustworthy information. Ultimately, the goal is to improve oral health outcomes and overall well-being by ensuring that individuals have the knowledge and resources needed to make informed decisions about their oral care.
  
 ## Project Description:
 
