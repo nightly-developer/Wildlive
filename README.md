@@ -1,6 +1,6 @@
 # Wildlive
 
-This is my FRT Internship project....
+## Microsoft Future Ready Talent Internship Project
 
 Azure link: https://dwellerr.z29.web.core.windows.net/
 
