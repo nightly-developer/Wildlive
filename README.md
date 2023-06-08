@@ -1,4 +1,4 @@
-# Wildlive
+# HappyTeeth
 
 ## *Microsoft Future Ready Talent Internship Project*
 
