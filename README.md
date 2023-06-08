@@ -2,7 +2,7 @@
 
 ## *Microsoft Future Ready Talent Internship Project*
 
-Azure link: [https://dwellerr.z29.web.core.windows.net/](https://wildlive.z10.web.core.windows.net/)
+Azure link: [Wildlive Website](https://wildlive.z10.web.core.windows.net/)
 
 ## Project Statement:
 
